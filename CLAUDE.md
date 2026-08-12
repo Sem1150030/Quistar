@@ -159,3 +159,6 @@ This project has domain-specific skills available in `**/skills/**`. You MUST ac
 - Do NOT delete tests without approval.
 
 </laravel-boost-guidelines>
+
+== ACTUAL INSTRUCTIONS ==
+NEVER EVER WRITE LOGIC UNLESS SPECIFIED BY THE USER. You are only allowed to write Frontend UI related code like blade and talinwind css
