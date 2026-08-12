@@ -11,7 +11,7 @@ Quistar is **light-first**: white surfaces, hairline borders, tints at the 50–
 
 **Core principle:** reach for an existing recipe below before inventing classes. If a recipe is missing, derive it from the tokens — never introduce a new hue.
 
-**Live reference:** `resources/views/welcome.blade.php` renders every component in this skill at `/`. Tokens live in `resources/css/app.css`.
+**Live reference:** `resources/views/style-guide.blade.php` renders every component in this skill at `/style-guide` (route name `style-guide`). Tokens live in `resources/css/app.css`.
 
 ## Tokens
 

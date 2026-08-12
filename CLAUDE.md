@@ -21,7 +21,7 @@ This project has domain-specific skills available in `**/skills/**`. You MUST ac
 
 All UI in this app follows the Quistar design system: light-first surfaces, `slate` neutrals, a `brand` (sky) scale, and mandatory `dark:` variants. **Never use `zinc`/`gray` neutrals or violet/purple.**
 
-Before writing or editing any Blade view, Livewire component, or Tailwind class, activate the `quistar-design-system` skill — it holds the tokens, the component recipes, and the contrast rules. The live reference renders at `/` (`resources/views/welcome.blade.php`); tokens live in the `@theme` block of `resources/css/app.css`.
+Before writing or editing any Blade view, Livewire component, or Tailwind class, activate the `quistar-design-system` skill — it holds the tokens, the component recipes, and the contrast rules. The live reference renders at `/style-guide` (`resources/views/style-guide.blade.php`); tokens live in the `@theme` block of `resources/css/app.css`.
 
 ## Conventions
 
