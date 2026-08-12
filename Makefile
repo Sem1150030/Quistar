@@ -13,3 +13,12 @@ queue:
 
 schedule:
 	php artisan schedule:work
+
+lint:
+	vendor/bin/pint --parallel
+
+lint-check:
+	vendor/bin/pint --parallel --test
+
+lint-dirty:
+	vendor/bin/pint --dirty
