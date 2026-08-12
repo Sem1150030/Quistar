@@ -1,9 +1,9 @@
 <?php
 
+use App\Enums\QuizStatus;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
-use App\Enums\QuizStatus;
 
 return new class extends Migration
 {
